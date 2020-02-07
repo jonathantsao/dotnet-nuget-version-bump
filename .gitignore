@@ -1,0 +1,10 @@
+# package
+nupkg/
+
+# binaries
+src/*/bin/
+src/*/obj/
+
+# test binaries
+tests/*/bin/
+tests/*/obj/
